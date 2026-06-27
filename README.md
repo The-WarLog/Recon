@@ -1,4 +1,4 @@
-# 🦁 EDDY
+# Recon
 
 <div align="center">
 
@@ -8,9 +8,9 @@ An intelligent CLI tool that helps you navigate, analyze, and modify codebases w
 
 </div>
 
-## 🚀 Meet Eddy - Your AI Agent
+## 🚀 Meet Recon - Your AI Agent
 
-This project is maintained and enhanced by **Eddy**, an AI coding assistant designed to help developers understand, navigate, and modify codebases efficiently. Eddy powers the intelligent agent modes in this project, providing contextual understanding and automated assistance.
+This project is maintained and enhanced by **Recon**, an AI coding assistant designed to help developers understand, navigate, and modify codebases efficiently. Eddy powers the intelligent agent modes in this project, providing contextual understanding and automated assistance.
 
 ## 📋 Overview
 
