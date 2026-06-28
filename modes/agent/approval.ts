@@ -92,7 +92,8 @@ export async function runApprovalFollowUp(
     }
     return true;
   }
-  // here we consider all the tasks that are pending from above
+  // here we consider all the tasks that are pending from above where we basically
+  // updated the task and their status for more clarity look into groupPending() function
   for (const g of groupPending(pendingActions)) {
     while (true) {
       const choice = await select({
