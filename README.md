@@ -65,32 +65,7 @@ Eddy is a feature-rich command-line interface (CLI) tool built with TypeScript t
 | **@types/node** | ^25.7.0 | TypeScript definitions for Node.js |
 | **@types/marked-terminal** | ^6.1.1 | TypeScript definitions for marked-terminal |
 
-## 🏗️ Project Structure
 
-```
-openclaw/
-├── index.ts                          # Main entry point
-├── package.json                        # Dependencies and project metadata
-├── tsconfig.json                       # TypeScript configuration
-├── ai/
-│   ├── ai.config.ts                    # AI provider configuration
-│   └── index.ts                        # AI module exports
-├── modes/
-│   ├── cli.ts                          # CLI mode selector
-│   ├── agent/
-│   │   ├── orchestrator.ts             # Agent mode orchestration
-│   │   ├── action-tracker.ts           # Tracks all actions
-│   │   ├── agent-tools.ts              # Available tools for agent
-│   │   ├── approval.ts                 # Approval workflow
-│   │   ├── diff-view.ts                # Diff visualization
-│   │   ├── tool-executor.ts            # Tool execution engine
-│   │   └── types.ts                    # Type definitions
-│   └── ask/
-│       └── orchestrator-ask.ts         # Ask mode implementation
-└── tui/
-    ├── wakeup.ts                       # Welcome screen and banner
-    └── terminal-md.ts                  # Markdown rendering
-```
 
 ## 🎯 Features
 
@@ -201,8 +176,7 @@ This project is maintained by Eddy. Contributions and feedback are welcome!
 
 ## 📄 License
 
-[Specify your license here]
-
+MIT 
 ## 🙏 Acknowledgments
 
 - Built with [Bun](https://bun.sh) runtime
@@ -212,6 +186,6 @@ This project is maintained by Eddy. Contributions and feedback are welcome!
 ---
 
 <div align="center">
-  <p><strong>OPENCLAW</strong> - Your intelligent development companion</p>
-  <p>Made with ❤️ by Eddy</p>
+  <p><strong>Recon</strong> - Your intelligent development companion</p>
+  <p>Made with ❤️ by Divyesh</p>
 </div>
