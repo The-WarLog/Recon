@@ -106,8 +106,8 @@ Eddy is a feature-rich command-line interface (CLI) tool built with TypeScript t
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/openclaw.git
-cd openclaw
+git clone https://github.com/The-WarLog/Recon
+cd Recon
 
 # Install dependencies
 bun install
@@ -172,7 +172,7 @@ The agent can be configured with:
 
 ## 🤝 Contributing
 
-This project is maintained by Eddy. Contributions and feedback are welcome!
+This project is maintained by Divyesh. Contributions and feedback are welcome!
 
 ## 📄 License
 
